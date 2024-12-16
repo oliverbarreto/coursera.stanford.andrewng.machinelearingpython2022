@@ -20,7 +20,8 @@ Average User Rating 4.9
 
 
 # Diploma:
-![Stanford Official Diploma](Diploma Oliver Stanford online Coursera - Machine Learning - F6K6NAH8PP97.png)
+![Stanford Online Machine Learning Course Certificate](./Diploma_MachineLeatning.png)
+
 
 # Syllabus
 ## WEEK 1
